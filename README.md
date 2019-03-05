@@ -4,7 +4,7 @@
   Cinnamon Desktop
 </h1>
 
-<p align="center"><b>This is the snap for Cinnamon Desktop, a Linux desktop which provides advanced innovative features and a traditional user experience. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. </p>
+This is the snap for [Cinnamon Desktop](https://cinnamon-spices.linuxmint.com/), a Linux desktop which provides advanced innovative features and a traditional user experience. It works on Ubuntu, Fedora, Debian, and other major Linux distributions. 
 
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
