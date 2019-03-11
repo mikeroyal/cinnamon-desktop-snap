@@ -12,7 +12,7 @@ This is the snap for [Cinnamon Desktop](https://cinnamon-spices.linuxmint.com/),
 </p>
 -->
 
-![my-snap-name](https://user-images.githubusercontent.com/45159366/52699258-3375c980-2f2a-11e9-8e7d-a2184a1ba9f5.jpeg?raw=true "my-snap-name")
+![my-snap-name](https://user-images.githubusercontent.com/45159366/54108466-4a78d180-4399-11e9-90aa-9340ca45ab1a.png?raw=true "my-snap-name")
 
 <p align="center">Published for <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/tux.png" align="top" width="24" /> with 💝 by Snapcrafters</p>
 
