@@ -1,9 +1,8 @@
 name: cinnamon-desktop
-version: 4.0.9 
+version: 4.2.3
 summary: Cinnamon Desktop Environment.
 description: a Linux desktop which provides advanced innovative features and a traditional user experience. 
   
-adopt-info: devmode # use 'strict' once you have the right plugs and slots
 
 grade: stable
 confinement: devmode
